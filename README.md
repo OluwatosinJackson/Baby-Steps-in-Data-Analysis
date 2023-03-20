@@ -1,4 +1,4 @@
-# Project Name: Baby-Steps-in-Data-Analysis
+# Project Name: My-first-Data-Analysis-repo
 
 ----------
 # Project Objective: Problem Statement
